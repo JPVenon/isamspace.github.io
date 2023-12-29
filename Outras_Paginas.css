@@ -58,3 +58,8 @@ h1{
     }
 
 }
+#contato-final{
+    text-align: right;
+    margin-right: 0;
+    padding-right: 0;
+}
