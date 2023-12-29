@@ -29,6 +29,7 @@ header{
     display: flex;
 }
 p{
+    text-align: left;
     color: black;
     min-width: 50%;
 }
