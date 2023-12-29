@@ -59,7 +59,26 @@ h1{
 
 }
 #contato-final{
-    text-align: right;
-    margin-right: 0;
-    padding-right: 0;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
+}
+.felx{
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    text-align: left;
+}
+.ne{
+    font-size: 15pt;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:lighter;
+}
+.img-cont{
+    width: 2.5em;
+    margin-right: 6px;
+    margin-bottom: 4px;
 }
