@@ -82,3 +82,10 @@ h1{
     margin-right: 6px;
     margin-bottom: 4px;
 }
+.resolva-meu-prblema{
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    color: black;
+}
