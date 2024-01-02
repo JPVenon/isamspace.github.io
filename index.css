@@ -354,10 +354,10 @@ a:hover{
     #slogam{
       text-transform:none;
     }
-  #width{
-    width: 50%;
-    height: 50%;
-    animation: pulsar 4s infinite;
-    filter: drop-shadow(-8px 2px 7px #942dbd);
-}
+    #width{
+      width: 80%;
+      height: 80%;
+      animation: pulsar 4s infinite;
+      filter: drop-shadow(-8px 2px 7px #942dbd);
+  }
 }
